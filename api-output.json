@@ -1,0 +1,5101 @@
+{
+  "products": [
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Nepped-Round-Neck-T-shirt/2310365/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2310365,
+      "product": "Roadster Men Black Nepped Round Neck T-shirt",
+      "productName": "Roadster Men Black Nepped Round Neck T-shirt",
+      "rating": 4.020438,
+      "ratingCount": 685,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630366-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14960312,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14960309,
+          "label": "S",
+          "inventory": 54,
+          "available": true
+        },
+        {
+          "skuId": 14960310,
+          "label": "M",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 14960311,
+          "label": "L",
+          "inventory": 26,
+          "available": true
+        },
+        {
+          "skuId": 14960312,
+          "label": "XL",
+          "inventory": 14,
+          "available": true
+        }
+      ],
+      "sizes": "S,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630366-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630366-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630273-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630322-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630343-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2310365/2018/2/1/11517487630300-Roadster-Men-Black-Solid-Round-Neck-T-shirt-5871517487630224-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Nepped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1517443200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White-Solid-Round-Neck-Layered-T-shirt/2499322/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2499322,
+      "product": "Roadster Men White Solid Round Neck Layered T-shirt",
+      "productName": "Roadster Men White Solid Round Neck Layered T-shirt",
+      "rating": 3.8262806,
+      "ratingCount": 449,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 150,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280178-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 15727149,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 15727147,
+          "label": "S",
+          "inventory": 21,
+          "available": true
+        },
+        {
+          "skuId": 15727148,
+          "label": "M",
+          "inventory": 233,
+          "available": true
+        },
+        {
+          "skuId": 15727149,
+          "label": "L",
+          "inventory": 349,
+          "available": true
+        },
+        {
+          "skuId": 15727150,
+          "label": "XL",
+          "inventory": 319,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280178-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280178-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280094-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280130-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280153-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2499322/2018/5/3/11525340280107-Roadster-Men-White-Solid-Round-Neck-T-shirt-4321525340280011-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 25 % OFF)",
+      "additionalInfo": "Layered T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 449,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1525305600000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt/1697714/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1697714,
+      "product": "Roadster Men Maroon & Navy Blue Striped Round Neck T-shirt",
+      "productName": "Roadster Men Maroon & Navy Blue Striped Round Neck T-shirt",
+      "rating": 4.0106726,
+      "ratingCount": 2811,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/3a66abd7-a7bd-462e-ba8a-ce60cdbe576b1579690524370-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 12668042,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 12668040,
+          "label": "S",
+          "inventory": 298,
+          "available": true
+        },
+        {
+          "skuId": 12668041,
+          "label": "M",
+          "inventory": 136,
+          "available": true
+        },
+        {
+          "skuId": 12668042,
+          "label": "L",
+          "inventory": 37,
+          "available": true
+        },
+        {
+          "skuId": 12668043,
+          "label": "XL",
+          "inventory": 58,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/3a66abd7-a7bd-462e-ba8a-ce60cdbe576b1579690524370-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/3a66abd7-a7bd-462e-ba8a-ce60cdbe576b1579690524370-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/e2663517-aae4-4ad9-a9d2-4eb71e1562771579690524143-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/64dd85e1-5c22-4a15-8c38-d02026613aa01579690524262-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/08f9010f-87a7-4e2a-96fa-69545735523b1579690524202-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1697714/2020/1/22/2fdc712f-0209-405c-bf53-06e691bffce21579690524306-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Men Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": true,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "",
+      "tdBxGyText": "",
+      "catalogDate": "1487203200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Solid-Polo-Collar-T-shirt/1996801/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1996801,
+      "product": "Roadster Men Black Solid Polo Collar T-shirt",
+      "productName": "Roadster Men Black Solid Polo Collar T-shirt",
+      "rating": 4.228797,
+      "ratingCount": 507,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/15c9e328-62bd-49ea-8cbd-7bc2047ba02f1533279315890-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13774571,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13774568,
+          "label": "S",
+          "inventory": 224,
+          "available": true
+        },
+        {
+          "skuId": 13774569,
+          "label": "M",
+          "inventory": 535,
+          "available": true
+        },
+        {
+          "skuId": 13774570,
+          "label": "L",
+          "inventory": 301,
+          "available": true
+        },
+        {
+          "skuId": 13774571,
+          "label": "XL",
+          "inventory": 133,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/15c9e328-62bd-49ea-8cbd-7bc2047ba02f1533279315890-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/15c9e328-62bd-49ea-8cbd-7bc2047ba02f1533279315890-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/774a0e5f-f5c3-42de-a0b0-d692b624bcbc1533279315501-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/a0e7dec6-fc86-416d-b559-4cc3d6f980001533279315679-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/90b22f07-04fd-485d-aa16-99b1a7df8c3d1533279315766-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1996801/2018/8/3/00f81ce3-50a7-43e3-8049-db51e2ac0e951533279315582-Roadster-Men-Black-Solid-Polo-Collar-T-shirt-836153327931345-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Polo Collar T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1511395200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Solid-Round-Neck-T-shirt/2275352/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2275352,
+      "product": "Roadster Men Black Solid Round Neck T-shirt",
+      "productName": "Roadster Men Black Solid Round Neck T-shirt",
+      "rating": 3.7797554,
+      "ratingCount": 1798,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618271-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14825401,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14825401,
+          "label": "S",
+          "inventory": 154,
+          "available": true
+        },
+        {
+          "skuId": 14825402,
+          "label": "M",
+          "inventory": 194,
+          "available": true
+        },
+        {
+          "skuId": 14825403,
+          "label": "L",
+          "inventory": 681,
+          "available": true
+        },
+        {
+          "skuId": 14825404,
+          "label": "XL",
+          "inventory": 287,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618271-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618271-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618153-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618222-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618246-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2275352/2018/2/24/11519444618189-Roadster-Men-Black-Solid-Round-Neck-T-shirt-1771519444618074-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "",
+      "tdBxGyText": "",
+      "catalogDate": "1519257600000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey-Melange-Solid-Longline-T-shirt-with-Raw-Edges/1824340/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1824340,
+      "product": "Roadster Men Grey Melange Solid Longline T-shirt with Raw Edges",
+      "productName": "Roadster Men Grey Melange Solid Longline T-shirt with Raw Edges",
+      "rating": 3.4425807,
+      "ratingCount": 775,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560457-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13138510,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13138509,
+          "label": "S",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 13138510,
+          "label": "M",
+          "inventory": 326,
+          "available": true
+        },
+        {
+          "skuId": 13138511,
+          "label": "L",
+          "inventory": 341,
+          "available": true
+        },
+        {
+          "skuId": 13138512,
+          "label": "XL",
+          "inventory": 39,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560457-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560457-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560351-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560408-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560431-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1824340/2017/8/3/11501764560381-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3291501764560241-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey Melange",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Longline T-shirt with Raw Edge",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1501718400000",
+      "season": "Summer",
+      "year": "2018",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Round-Neck-T-shirt-with-Striped-Sleeves/1708418/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1708418,
+      "product": "Roadster Men Black Round Neck T-shirt with Striped Sleeves",
+      "productName": "Roadster Men Black Round Neck T-shirt with Striped Sleeves",
+      "rating": 4.1553335,
+      "ratingCount": 1603,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624487-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 12714235,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 12714234,
+          "label": "S",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 12714235,
+          "label": "M",
+          "inventory": 80,
+          "available": true
+        },
+        {
+          "skuId": 12714236,
+          "label": "L",
+          "inventory": 357,
+          "available": true
+        },
+        {
+          "skuId": 12714237,
+          "label": "XL",
+          "inventory": 543,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624487-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624487-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624411-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624454-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624468-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1708418/2017/2/21/11487662624429-Roadster-Men-Black-Solid-Round-Neck-T-Shirt-461487662624232-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(30% OFF)",
+      "additionalInfo": "T-shirt with Striped Sleeves",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": true,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1487203200000",
+      "season": "Summer",
+      "year": "2018",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon-All-Over-Printed-Round-Neck-T-shirt/2475722/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2475722,
+      "product": "Roadster Men Maroon All-Over-Printed Round Neck T-shirt",
+      "productName": "Roadster Men Maroon All-Over-Printed Round Neck T-shirt",
+      "rating": 4.2860575,
+      "ratingCount": 832,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691121-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 15632991,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 15632989,
+          "label": "S",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 15632991,
+          "label": "M",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 15632994,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 15632996,
+          "label": "XL",
+          "inventory": 252,
+          "available": true
+        }
+      ],
+      "sizes": "S,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691121-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691121-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691017-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691066-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691091-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2475722/2018/5/2/11525255691041-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-4191525255690915-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "",
+      "discountDisplayLabel": "",
+      "additionalInfo": "All-Over-Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 599,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "",
+      "tdBxGyText": "",
+      "catalogDate": "1524700800000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Solid-Henley-Neck-T-shirt-With-Pocket/11294010/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 11294010,
+      "product": "Roadster Men Navy Blue Solid Henley Neck T-shirt With Pocket",
+      "productName": "Roadster Men Navy Blue Solid Henley Neck T-shirt With Pocket",
+      "rating": 4.2474227,
+      "ratingCount": 97,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/16d2b4ce-b789-487c-820b-a25661820d071584077971800-Roadster-Men-Tshirts-131584077969723-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 39112512,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 39112510,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 39112512,
+          "label": "M",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 39112514,
+          "label": "L",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 39112516,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/16d2b4ce-b789-487c-820b-a25661820d071584077971800-Roadster-Men-Tshirts-131584077969723-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/16d2b4ce-b789-487c-820b-a25661820d071584077971800-Roadster-Men-Tshirts-131584077969723-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/a0e7380a-36a0-4ae2-83de-ab71a5587c671584077971602-Roadster-Men-Tshirts-131584077969723-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/775c9584-0af9-4828-b00b-5b2b53ccb6fe1584077971708-Roadster-Men-Tshirts-131584077969723-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/aa6ce6be-16cc-4842-aeac-cf5e261789631584077971759-Roadster-Men-Tshirts-131584077969723-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/11294010/2020/3/13/11ca3fc3-f49f-494c-a118-f65f1bb435781584077971669-Roadster-Men-Tshirts-131584077969723-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Henley Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 599,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1583971200000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt/10940682/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10940682,
+      "product": "Roadster Men White & Navy Blue Striped Round Neck T-shirt",
+      "productName": "Roadster Men White & Navy Blue Striped Round Neck T-shirt",
+      "rating": 3.95,
+      "ratingCount": 40,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/2ee592e9-da7a-4920-96c8-a4f2af1d35941583841781265-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 37682116,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 37682114,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 37682116,
+          "label": "M",
+          "inventory": 2,
+          "available": true
+        },
+        {
+          "skuId": 37682118,
+          "label": "L",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 37682120,
+          "label": "XL",
+          "inventory": 5,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/2ee592e9-da7a-4920-96c8-a4f2af1d35941583841781265-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/2ee592e9-da7a-4920-96c8-a4f2af1d35941583841781265-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/0165f0e9-5a43-412e-bf92-b18096136e731583841781079-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/b2df3238-5fa4-446a-b654-f29629c898821583841781181-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/9eb28c28-a774-449b-b138-4cfd1c56a4ec1583841781225-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10940682/2020/3/10/996dcece-9261-48ce-924a-5ffb9b48c88b1583841781122-Roadster-Men-White--Navy-Blue-Striped-Round-Neck-T-shirt-667-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1576713600000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Solid-Henley-Neck-T-shirt/11533834/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 11533834,
+      "product": "Roadster Men Navy Blue Solid Henley Neck T-shirt",
+      "productName": "Roadster Men Navy Blue Solid Henley Neck T-shirt",
+      "rating": 4.4,
+      "ratingCount": 15,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 270,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/c932ba21-b8ee-40be-85b0-6ac16ecd69991591675433981-Roadster-Men-Tshirts-6251591675432531-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 40115866,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 40115860,
+          "label": "S",
+          "inventory": 38,
+          "available": true
+        },
+        {
+          "skuId": 40115862,
+          "label": "M",
+          "inventory": 129,
+          "available": true
+        },
+        {
+          "skuId": 40115864,
+          "label": "L",
+          "inventory": 109,
+          "available": true
+        },
+        {
+          "skuId": 40115866,
+          "label": "XL",
+          "inventory": 44,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/c932ba21-b8ee-40be-85b0-6ac16ecd69991591675433981-Roadster-Men-Tshirts-6251591675432531-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/c932ba21-b8ee-40be-85b0-6ac16ecd69991591675433981-Roadster-Men-Tshirts-6251591675432531-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/db7112e8-d9c8-4c78-bf9e-2252303ed9771591675433756-Roadster-Men-Tshirts-6251591675432531-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/76d06c02-6c3c-4252-b54c-ee81c96797ba1591675433862-Roadster-Men-Tshirts-6251591675432531-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/698bcb67-0eb8-4d2a-b42e-79d313cc3d221591675433809-Roadster-Men-Tshirts-6251591675432531-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/11533834/2020/6/9/7b291d7a-379a-4c60-ae5b-f6b70e6c8b531591675433922-Roadster-Men-Tshirts-6251591675432531-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Solid Henley Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 899,
+      "price": 629,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1591228800000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Solid-Round-Neck-T-shirt/9793511/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 9793511,
+      "product": "Roadster Men Black Solid Round Neck T-shirt",
+      "productName": "Roadster Men Black Solid Round Neck T-shirt",
+      "rating": 4.3880367,
+      "ratingCount": 1304,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/37ac1de4-2d8c-4e18-a431-a89cdf4695dd1560580175558-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 34457350,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 34457350,
+          "label": "S",
+          "inventory": 286,
+          "available": true
+        },
+        {
+          "skuId": 34457352,
+          "label": "M",
+          "inventory": 1483,
+          "available": true
+        },
+        {
+          "skuId": 34457354,
+          "label": "L",
+          "inventory": 2411,
+          "available": true
+        },
+        {
+          "skuId": 34457356,
+          "label": "XL",
+          "inventory": 1372,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/37ac1de4-2d8c-4e18-a431-a89cdf4695dd1560580175558-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/37ac1de4-2d8c-4e18-a431-a89cdf4695dd1560580175558-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/13293ee8-6d87-4fc1-980a-bf1bf51a61841560580175498-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/9e3c2714-6597-4ae3-a2b6-156b2fab143e1560580175527-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/a4dae1de-2fbe-4af9-8bdc-ec1bda23ffb21560580175543-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/9793511/2019/6/15/912fcad2-c0cf-4355-888a-70c98ba45b6b1560580175508-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8361560580174560-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1560384000000",
+      "season": "Spring",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White-Brush-Printed-Round-Neck-T-shirt/1824369/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1824369,
+      "product": "Roadster Men White Brush Printed Round Neck T-shirt",
+      "productName": "Roadster Men White Brush Printed Round Neck T-shirt",
+      "rating": 4.210568,
+      "ratingCount": 2536,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 210,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166188-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13138626,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13138625,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 13138626,
+          "label": "M",
+          "inventory": 10,
+          "available": true
+        },
+        {
+          "skuId": 13138627,
+          "label": "L",
+          "inventory": 276,
+          "available": true
+        },
+        {
+          "skuId": 13138628,
+          "label": "XL",
+          "inventory": 810,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166188-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166188-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166120-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166159-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166174-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1824369/2017/5/5/11493980166143-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(30% OFF)",
+      "additionalInfo": "Brush Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 489,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1493856000000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt/1673725/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1673725,
+      "product": "Roadster Men Navy Blue Striped Round Neck T-shirt",
+      "productName": "Roadster Men Navy Blue Striped Round Neck T-shirt",
+      "rating": 4.137474,
+      "ratingCount": 2415,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944851-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 12587598,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 12587598,
+          "label": "S",
+          "inventory": 1132,
+          "available": true
+        },
+        {
+          "skuId": 12587599,
+          "label": "M",
+          "inventory": 1100,
+          "available": true
+        },
+        {
+          "skuId": 12587600,
+          "label": "L",
+          "inventory": 758,
+          "available": true
+        },
+        {
+          "skuId": 12587601,
+          "label": "XL",
+          "inventory": 488,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944851-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944851-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944736-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944794-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944815-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1673725/2018/2/16/11518766944762-Roadster-Men-Navy-Striped-Round-Neck-T-shirt-4281518766944542-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Striped Round Neck Navy Blue T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "",
+      "tdBxGyText": "",
+      "catalogDate": "1487203200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey-Number-Graphic-Printed-Round-Neck-Long-Sleeve-T-shirt/10307359/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10307359,
+      "product": "Roadster Men Grey Number Graphic Printed Round Neck Long Sleeve T-shirt",
+      "productName": "Roadster Men Grey Number Graphic Printed Round Neck Long Sleeve T-shirt",
+      "rating": 4.0784316,
+      "ratingCount": 51,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 280,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/e691a0c6-ee8d-43be-8c3d-f093664f47701575895020528-Roadster-Men-Tshirts-8701575895018008-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35174513,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35174509,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 35174513,
+          "label": "M",
+          "inventory": 6,
+          "available": true
+        },
+        {
+          "skuId": 35174517,
+          "label": "L",
+          "inventory": 22,
+          "available": true
+        },
+        {
+          "skuId": 35174519,
+          "label": "XL",
+          "inventory": 14,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/e691a0c6-ee8d-43be-8c3d-f093664f47701575895020528-Roadster-Men-Tshirts-8701575895018008-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/e691a0c6-ee8d-43be-8c3d-f093664f47701575895020528-Roadster-Men-Tshirts-8701575895018008-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/f0d6c187-f754-4619-93b4-c2c89f478e541575895020325-Roadster-Men-Tshirts-8701575895018008-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/dd193706-69b0-4a87-8055-1a813ff1ef791575895020440-Roadster-Men-Tshirts-8701575895018008-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/e4b9b51f-56c2-4434-b5a6-993890cce7051575895020390-Roadster-Men-Tshirts-8701575895018008-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10307359/2019/12/9/d2a1611d-0533-41fb-a744-bcf54baf607c1575895020485-Roadster-Men-Tshirts-8701575895018008-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 35 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 519,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1575504000000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Brown-Melange-Solid-Round-Neck-T-shirt/10424674/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10424674,
+      "product": "Roadster Men Brown Melange Solid Round Neck T-shirt",
+      "productName": "Roadster Men Brown Melange Solid Round Neck T-shirt",
+      "rating": 4.230769,
+      "ratingCount": 130,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/c6d19055-8bc9-4b7c-a593-472589db72121571833997956-Roadster-Men-Tshirts-5171571833995789-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35630938,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35630934,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 35630938,
+          "label": "M",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 35630942,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 35630946,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/c6d19055-8bc9-4b7c-a593-472589db72121571833997956-Roadster-Men-Tshirts-5171571833995789-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/c6d19055-8bc9-4b7c-a593-472589db72121571833997956-Roadster-Men-Tshirts-5171571833995789-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/c8668188-2e14-4e0e-9796-1d58c70837fc1571833997746-Roadster-Men-Tshirts-5171571833995789-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/d7e13031-f0ba-4f26-8e8f-5edb65f642cc1571833997854-Roadster-Men-Tshirts-5171571833995789-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/63eeddaf-ba42-419a-8c30-493c0b0b82241571833997901-Roadster-Men-Tshirts-5171571833995789-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10424674/2019/10/23/fd8b3117-91bb-4830-81e3-166b8714b0491571833997804-Roadster-Men-Tshirts-5171571833995789-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Brown",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Men Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1571875200000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black--Brown-Printed-Round-Neck-T-shirt/9972867/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 9972867,
+      "product": "Roadster Men Black & Brown Printed Round Neck T-shirt",
+      "productName": "Roadster Men Black & Brown Printed Round Neck T-shirt",
+      "rating": 4.1343284,
+      "ratingCount": 67,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 450,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/34683309-8286-4653-b2e8-96f05fe53d2f1573207780884-Roadster-Men-Tshirts-8231573207779540-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 34642328,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 34642325,
+          "label": "S",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 34642326,
+          "label": "M",
+          "inventory": 8,
+          "available": true
+        },
+        {
+          "skuId": 34642327,
+          "label": "L",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 34642328,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/34683309-8286-4653-b2e8-96f05fe53d2f1573207780884-Roadster-Men-Tshirts-8231573207779540-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/34683309-8286-4653-b2e8-96f05fe53d2f1573207780884-Roadster-Men-Tshirts-8231573207779540-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/3d599937-1a96-4580-8907-7b942f3b233c1573207780645-Roadster-Men-Tshirts-8231573207779540-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/e21e3af9-1ff2-4aab-adcf-b7828b127ce71573207780764-Roadster-Men-Tshirts-8231573207779540-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/54a353d3-fa68-43d1-a1d1-4fb3d4fce12c1573207780701-Roadster-Men-Tshirts-8231573207779540-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/9972867/2019/11/8/804cfc3b-f776-4a8b-9973-a04cb02fe9f11573207780830-Roadster-Men-Tshirts-8231573207779540-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(50% OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 899,
+      "price": 449,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1573084800000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Olive-Green--Cream-Coloured-Varsity-Number-Printed-Round-Neck-Long-Sleeve-T-shirt/10307633/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10307633,
+      "product": "Roadster Men Olive-Green & Cream-Coloured Varsity Number Printed Round Neck Long Sleeve T-shirt",
+      "productName": "Roadster Men Olive-Green & Cream-Coloured Varsity Number Printed Round Neck Long Sleeve T-shirt",
+      "rating": 3.939394,
+      "ratingCount": 33,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 280,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/57e79e4c-97cf-49c3-82a9-daca138df35c1575895024553-Roadster-Men-Tshirts-2981575895022106-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35175607,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35175601,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 35175605,
+          "label": "M",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 35175607,
+          "label": "L",
+          "inventory": 2,
+          "available": true
+        },
+        {
+          "skuId": 35175611,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/57e79e4c-97cf-49c3-82a9-daca138df35c1575895024553-Roadster-Men-Tshirts-2981575895022106-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/57e79e4c-97cf-49c3-82a9-daca138df35c1575895024553-Roadster-Men-Tshirts-2981575895022106-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/6537a6bd-eff9-4139-9663-75812aa5c7af1575895024373-Roadster-Men-Tshirts-2981575895022106-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/a5faf588-a01c-4f9b-ab5f-6cf65c364eaf1575895024464-Roadster-Men-Tshirts-2981575895022106-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/9bfbc10b-cf80-4246-84e8-69c1a67adfe31575895024505-Roadster-Men-Tshirts-2981575895022106-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10307633/2019/12/9/01592e64-63f8-499d-bfc2-5484347d3a4b1575895024422-Roadster-Men-Tshirts-2981575895022106-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Olive",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 35 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 519,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1575504000000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Charcoal-Grey--Black-Colourblocked-Round-Neck-T-shirt/8938945/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 8938945,
+      "product": "Roadster Men Charcoal Grey & Black Colourblocked Round Neck T-shirt",
+      "productName": "Roadster Men Charcoal Grey & Black Colourblocked Round Neck T-shirt",
+      "rating": 4.2608695,
+      "ratingCount": 46,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 450,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/ebd59747-f8d0-4b34-9ead-67868c7a262b1569654337751-Roadster-Men-Tshirts-6001569654336662-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 33601841,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 33601836,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 33601837,
+          "label": "M",
+          "inventory": 5,
+          "available": true
+        },
+        {
+          "skuId": 33601839,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 33601841,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/ebd59747-f8d0-4b34-9ead-67868c7a262b1569654337751-Roadster-Men-Tshirts-6001569654336662-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/ebd59747-f8d0-4b34-9ead-67868c7a262b1569654337751-Roadster-Men-Tshirts-6001569654336662-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/99b4c553-a9b3-4201-abd2-c5d3182885571569654337639-Roadster-Men-Tshirts-6001569654336662-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/1d837fa7-9568-46d5-85b5-82123d3941181569654337696-Roadster-Men-Tshirts-6001569654336662-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/6c321596-1733-4db7-b4bc-f7fd1ff40a101569654337723-Roadster-Men-Tshirts-6001569654336662-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/8938945/2019/9/28/fc50aec2-f153-4d3a-be7d-971631e8ff801569654337668-Roadster-Men-Tshirts-6001569654336662-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Charcoal",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(50% OFF)",
+      "additionalInfo": "Colourblocked Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 899,
+      "price": 449,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1569456000000",
+      "season": "Winter",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue--Grey-Colourblocked-Round-Neck-T-shirt/2215207/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2215207,
+      "product": "Roadster Men Navy Blue & Grey Colourblocked Round Neck T-shirt",
+      "productName": "Roadster Men Navy Blue & Grey Colourblocked Round Neck T-shirt",
+      "rating": 4.6,
+      "ratingCount": 5,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595872-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14595450,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14595448,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 14595449,
+          "label": "M",
+          "inventory": 13,
+          "available": true
+        },
+        {
+          "skuId": 14595450,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 14595451,
+          "label": "XL",
+          "inventory": 6,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595872-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595872-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595768-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595822-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595797-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2215207/2018/2/22/11519292595844-Roadster-Men-Navy-Blue-Colourblocked-Round-Neck-T-shirt-9271519292595621-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Colourblocked T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1519257600000",
+      "season": "Summer",
+      "year": "2018",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey-Melange-All-Over-Printed-T-shirt/1997244/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1997244,
+      "product": "Roadster Men Grey Melange All-Over-Printed T-shirt",
+      "productName": "Roadster Men Grey Melange All-Over-Printed T-shirt",
+      "rating": 4.034734,
+      "ratingCount": 1785,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 280,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918599-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13776343,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13776340,
+          "label": "S",
+          "inventory": 81,
+          "available": true
+        },
+        {
+          "skuId": 13776341,
+          "label": "M",
+          "inventory": 1801,
+          "available": true
+        },
+        {
+          "skuId": 13776342,
+          "label": "L",
+          "inventory": 2090,
+          "available": true
+        },
+        {
+          "skuId": 13776343,
+          "label": "XL",
+          "inventory": 1125,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918599-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918599-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918518-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918561-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918582-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1997244/2017/9/6/11504686918543-Roadster-Men-Grey-Melange-Printed-Round-Neck-T-shirt-701504686918389-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey Melange",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 40 % OFF)",
+      "additionalInfo": "All-Over-Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1504137600000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Olive-Green-Printed-Round-Neck-T-shirt/10940674/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10940674,
+      "product": "Roadster Men Olive Green Printed Round Neck T-shirt",
+      "productName": "Roadster Men Olive Green Printed Round Neck T-shirt",
+      "rating": 3.8064516,
+      "ratingCount": 31,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/f42808ad-54ac-4954-9cef-91ae733a2c271583757430228-Roadster-Men-Tshirts-1271583757428386-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 37682078,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 37682078,
+          "label": "XS",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 37682080,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 37682082,
+          "label": "M",
+          "inventory": 18,
+          "available": true
+        },
+        {
+          "skuId": 37682084,
+          "label": "L",
+          "inventory": 19,
+          "available": true
+        },
+        {
+          "skuId": 37682086,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/f42808ad-54ac-4954-9cef-91ae733a2c271583757430228-Roadster-Men-Tshirts-1271583757428386-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/f42808ad-54ac-4954-9cef-91ae733a2c271583757430228-Roadster-Men-Tshirts-1271583757428386-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/12dc2f1c-9603-4cfa-b482-94a3d1887c451583757430054-Roadster-Men-Tshirts-1271583757428386-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/96137e9e-66f8-4d1d-bca0-4785bdf370f41583757430145-Roadster-Men-Tshirts-1271583757428386-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/ebdf6b9d-68c1-4074-bb61-dd69614189ae1583757430101-Roadster-Men-Tshirts-1271583757428386-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10940674/2020/3/9/83b86a88-ac33-47a8-a1be-e0c3ca0f4aea1583757430186-Roadster-Men-Tshirts-1271583757428386-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Olive",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 799,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1583366400000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Green-Printed-Round-Neck-T-shirt/10940486/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10940486,
+      "product": "Roadster Men Green Printed Round Neck T-shirt",
+      "productName": "Roadster Men Green Printed Round Neck T-shirt",
+      "rating": 4.0454545,
+      "ratingCount": 44,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 160,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/c36ee4f4-a2cc-4500-88aa-a9835534082f1584507542616-Roadster-Men-Tshirts-9391584507541107-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 37681276,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 37681274,
+          "label": "XS",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 37681276,
+          "label": "S",
+          "inventory": 7,
+          "available": true
+        },
+        {
+          "skuId": 37681278,
+          "label": "M",
+          "inventory": 23,
+          "available": true
+        },
+        {
+          "skuId": 37681280,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 37681282,
+          "label": "XL",
+          "inventory": 9,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/c36ee4f4-a2cc-4500-88aa-a9835534082f1584507542616-Roadster-Men-Tshirts-9391584507541107-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/c36ee4f4-a2cc-4500-88aa-a9835534082f1584507542616-Roadster-Men-Tshirts-9391584507541107-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/ad19a618-a4ac-4e1c-8d59-fcb3707073171584507542440-Roadster-Men-Tshirts-9391584507541107-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/4aef1c3f-f7a9-40bf-b2e9-3dff84f13ae01584507542526-Roadster-Men-Tshirts-9391584507541107-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/d3a9a6d9-b7b2-4ee8-aabd-3a36730823011584507542573-Roadster-Men-Tshirts-9391584507541107-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10940486/2020/3/18/1172829d-308b-4fb4-bad4-800da4c2e9a01584507542480-Roadster-Men-Tshirts-9391584507541107-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Green",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 20 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 639,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1583971200000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt/10940542/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10940542,
+      "product": "Roadster Men Grey & Black Colourblocked Henley Neck T-shirt",
+      "productName": "Roadster Men Grey & Black Colourblocked Henley Neck T-shirt",
+      "rating": 3.7592592,
+      "ratingCount": 54,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/01c90cc9-9af5-431a-92f5-098c733908391583387313290-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 37681516,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 37681514,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 37681516,
+          "label": "M",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 37681518,
+          "label": "L",
+          "inventory": 24,
+          "available": true
+        },
+        {
+          "skuId": 37681520,
+          "label": "XL",
+          "inventory": 3,
+          "available": true
+        }
+      ],
+      "sizes": "S,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/01c90cc9-9af5-431a-92f5-098c733908391583387313290-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/01c90cc9-9af5-431a-92f5-098c733908391583387313290-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/8021a624-a79b-43aa-9ab8-15301174b3071583387313078-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/87424cac-2e40-40a8-80e1-66d9f90be5271583387313196-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/4fe311ff-dba8-46f8-a5a7-fe0bb2acbb721583387313246-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10940542/2020/3/5/2b65a385-3f60-4dc4-9dc3-7f4c12dd30d71583387313123-Roadster-Men-Grey--Black-Colourblocked-Henley-Neck-T-shirt-4-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Colourblocked Henley Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 799,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1581552000000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon-Solid-Round-Neck-T-shirt/10941216/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10941216,
+      "product": "Roadster Men Maroon Solid Round Neck T-shirt",
+      "productName": "Roadster Men Maroon Solid Round Neck T-shirt",
+      "rating": 4.0422535,
+      "ratingCount": 71,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/10d58c68-47f2-40f8-85e9-70bdd242440e1578306895415-Roadster-Men-Tshirts-2571578306893663-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 37683952,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 37683948,
+          "label": "S",
+          "inventory": 105,
+          "available": true
+        },
+        {
+          "skuId": 37683950,
+          "label": "M",
+          "inventory": 237,
+          "available": true
+        },
+        {
+          "skuId": 37683952,
+          "label": "L",
+          "inventory": 214,
+          "available": true
+        },
+        {
+          "skuId": 37683954,
+          "label": "XL",
+          "inventory": 158,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/10d58c68-47f2-40f8-85e9-70bdd242440e1578306895415-Roadster-Men-Tshirts-2571578306893663-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/10d58c68-47f2-40f8-85e9-70bdd242440e1578306895415-Roadster-Men-Tshirts-2571578306893663-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/7e838485-7f25-49b8-b2b3-8ec8c523bfbd1578306895258-Roadster-Men-Tshirts-2571578306893663-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/c5865cab-ac80-4187-9374-633909008c501578306895335-Roadster-Men-Tshirts-2571578306893663-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/45ed2e87-2a5a-4237-95fa-e69be935710d1578306895299-Roadster-Men-Tshirts-2571578306893663-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10941216/2020/1/6/5787be37-3767-4035-8ef7-1bb31859ca2a1578306895372-Roadster-Men-Tshirts-2571578306893663-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1577923200000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White--Grey-Longline-Layered-T-shirt/2308327/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2308327,
+      "product": "Roadster Men White & Grey Longline Layered T-shirt",
+      "productName": "Roadster Men White & Grey Longline Layered T-shirt",
+      "rating": 4.1605506,
+      "ratingCount": 218,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101197-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14952969,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14952968,
+          "label": "S",
+          "inventory": 42,
+          "available": true
+        },
+        {
+          "skuId": 14952969,
+          "label": "M",
+          "inventory": 165,
+          "available": true
+        },
+        {
+          "skuId": 14952970,
+          "label": "L",
+          "inventory": 177,
+          "available": true
+        },
+        {
+          "skuId": 14952971,
+          "label": "XL",
+          "inventory": 35,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101197-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101197-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101091-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101147-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101172-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2308327/2018/1/29/11517218101121-Roadster-Men-White-Solid-Round-Neck-T-shirt-9711517218101049-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Longline Layered T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1516838400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White-Solid-Round-Neck-T-shirt/10424638/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10424638,
+      "product": "Roadster Men White Solid Round Neck T-shirt",
+      "productName": "Roadster Men White Solid Round Neck T-shirt",
+      "rating": 4.272404,
+      "ratingCount": 1406,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/4499ee8b-de4a-4713-b800-a2b3ced3f1741567584992257-Roadster-Men-Tshirts-5921567584990880-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35630812,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35630796,
+          "label": "S",
+          "inventory": 213,
+          "available": true
+        },
+        {
+          "skuId": 35630804,
+          "label": "M",
+          "inventory": 749,
+          "available": true
+        },
+        {
+          "skuId": 35630812,
+          "label": "L",
+          "inventory": 1942,
+          "available": true
+        },
+        {
+          "skuId": 35630820,
+          "label": "XL",
+          "inventory": 1198,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/4499ee8b-de4a-4713-b800-a2b3ced3f1741567584992257-Roadster-Men-Tshirts-5921567584990880-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/4499ee8b-de4a-4713-b800-a2b3ced3f1741567584992257-Roadster-Men-Tshirts-5921567584990880-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/7cfeb783-691b-4ae2-85d5-077fd87317b71567584992184-Roadster-Men-Tshirts-5921567584990880-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/1764a30d-eb26-4c53-94db-a438c6a3ea7d1567584992221-Roadster-Men-Tshirts-5921567584990880-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/59e45e32-0a63-45ce-8fff-1d5d00dafebf1567584992201-Roadster-Men-Tshirts-5921567584990880-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10424638/2019/9/4/a3d305ee-b37c-4039-9e1f-c15dc74ca29c1567584992240-Roadster-Men-Tshirts-5921567584990880-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1567641600000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black--White-Graphic-Printed-Round-Neck-T-shirt/10307691/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10307691,
+      "product": "Roadster Men Black & White Graphic Printed Round Neck T-shirt",
+      "productName": "Roadster Men Black & White Graphic Printed Round Neck T-shirt",
+      "rating": 4.1666665,
+      "ratingCount": 54,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 210,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/b1c555b9-e09f-4578-91a6-d5b90ed54c3e1580383308658-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35175833,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35175833,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 35175837,
+          "label": "M",
+          "inventory": 6,
+          "available": true
+        },
+        {
+          "skuId": 35175843,
+          "label": "L",
+          "inventory": 17,
+          "available": true
+        },
+        {
+          "skuId": 35175847,
+          "label": "XL",
+          "inventory": 11,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/b1c555b9-e09f-4578-91a6-d5b90ed54c3e1580383308658-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/b1c555b9-e09f-4578-91a6-d5b90ed54c3e1580383308658-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/48ba5a19-800f-4004-8dcc-37ee91431ed81580383308479-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/fd3fecbf-5461-4263-8049-6de64e41cde51580383308570-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/593e1d8b-8501-44f5-b306-71d2baa435351580383308526-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10307691/2020/1/30/b9617ade-fd0b-4017-913e-b19a9985adf31580383308614-Roadster-Men-Black--White-Printed-Round-Neck-T-shirt-4131580-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 489,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1580342400000",
+      "season": "Winter",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue--Brown-Striped-Round-Neck-T-shirt/2215198/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2215198,
+      "product": "Roadster Men Navy Blue & Brown Striped Round Neck T-shirt",
+      "productName": "Roadster Men Navy Blue & Brown Striped Round Neck T-shirt",
+      "rating": 4.368421,
+      "ratingCount": 19,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 120,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216301018-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14595415,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14595412,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 14595413,
+          "label": "M",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 14595414,
+          "label": "L",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 14595415,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216301018-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216301018-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216300912-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216300965-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216300992-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2215198/2018/1/29/11517216300939-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-2411517216300769-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 20 % OFF)",
+      "additionalInfo": "Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 479,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1516838400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Charcoal-Grey-Solid-V-Neck-T-shirt/6149315/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 6149315,
+      "product": "Roadster Men Charcoal Grey Solid V-Neck T-shirt",
+      "productName": "Roadster Men Charcoal Grey Solid V-Neck T-shirt",
+      "rating": 3.5,
+      "ratingCount": 20,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/102b03c9-4c67-4ac0-876c-e7d5332e64a21538044377501-Roadster-Men-Tshirts-4921538044376070-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 28809247,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 28809245,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 28809247,
+          "label": "M",
+          "inventory": 21,
+          "available": true
+        },
+        {
+          "skuId": 28809250,
+          "label": "L",
+          "inventory": 8,
+          "available": true
+        },
+        {
+          "skuId": 28809253,
+          "label": "XL",
+          "inventory": 17,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/102b03c9-4c67-4ac0-876c-e7d5332e64a21538044377501-Roadster-Men-Tshirts-4921538044376070-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/102b03c9-4c67-4ac0-876c-e7d5332e64a21538044377501-Roadster-Men-Tshirts-4921538044376070-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/7757987e-4ee0-4e03-bd3f-1e7036a13ca81538044377440-Roadster-Men-Tshirts-4921538044376070-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/1ff2651d-adbb-4cfc-b8bc-d6e4c5eb8ece1538044377473-Roadster-Men-Tshirts-4921538044376070-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/10e54546-1197-4557-a066-5505bb469b4b1538044377461-Roadster-Men-Tshirts-4921538044376070-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/6149315/2018/9/27/c92a5a99-33c7-44e2-967a-c27c2493de751538044377487-Roadster-Men-Tshirts-4921538044376070-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Charcoal",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Solid V-Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1538006400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Teal-Green--White-Printed-Round-Neck-T-shirt/9972809/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 9972809,
+      "product": "Roadster Men Teal Green & White Printed Round Neck T-shirt",
+      "productName": "Roadster Men Teal Green & White Printed Round Neck T-shirt",
+      "rating": 4.2413793,
+      "ratingCount": 58,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 360,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/db40ec39-0fff-4cad-937f-a2ac02e625fb1575542480504-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 34642209,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 34642207,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 34642208,
+          "label": "M",
+          "inventory": 38,
+          "available": true
+        },
+        {
+          "skuId": 34642209,
+          "label": "L",
+          "inventory": 13,
+          "available": true
+        },
+        {
+          "skuId": 34642210,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/db40ec39-0fff-4cad-937f-a2ac02e625fb1575542480504-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/db40ec39-0fff-4cad-937f-a2ac02e625fb1575542480504-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/134e6235-e98f-426c-817f-207548e145b31575542480321-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/6d0bf7b1-f567-4449-b8ae-2eb81cf96a051575542480417-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/ae473d15-176e-49e9-b190-d7138eab464e1575542480371-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/9972809/2019/12/5/b1c55cdf-b20b-44c1-b920-4c67687ee31e1575542480460-Roadster-Men-Teal-Colourblocked-Round-Neck-T-shirt-646157554-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Teal",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 45 % OFF)",
+      "additionalInfo": "Men Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 439,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1575504000000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Olive-Green-Striped-Henley-Neck-T-shirt/10526350/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10526350,
+      "product": "Roadster Men Olive Green Striped Henley Neck T-shirt",
+      "productName": "Roadster Men Olive Green Striped Henley Neck T-shirt",
+      "rating": 3.851852,
+      "ratingCount": 54,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 500,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/c5d5cbc8-ae92-4dcb-8d1f-4194eeaeec951573101902591-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 36043532,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 36043530,
+          "label": "S",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 36043532,
+          "label": "M",
+          "inventory": 29,
+          "available": true
+        },
+        {
+          "skuId": 36043534,
+          "label": "L",
+          "inventory": 25,
+          "available": true
+        },
+        {
+          "skuId": 36043536,
+          "label": "XL",
+          "inventory": 14,
+          "available": true
+        }
+      ],
+      "sizes": "M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/c5d5cbc8-ae92-4dcb-8d1f-4194eeaeec951573101902591-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/c5d5cbc8-ae92-4dcb-8d1f-4194eeaeec951573101902591-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/64cf7c28-962e-4de8-930a-9d3d2333d9301573101902417-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/3031929b-72e7-445c-9737-2879811a5eba1573101902515-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/3e821028-4e7d-4507-8190-272e23da293b1573101902470-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10526350/2019/11/7/0f25fe93-1071-4b60-8d9c-70ecd52c20161573101902555-Roadster-Men-Olive-Green--Navy-Blue-Striped-Henley-Neck-T-sh-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Olive",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(50% OFF)",
+      "additionalInfo": "Striped Henley Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 999,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1573084800000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-White-Solid-T-shirt-with-Raglan-Sleeves/1996750/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1996750,
+      "product": "Roadster Men White Solid T-shirt with Raglan Sleeves",
+      "productName": "Roadster Men White Solid T-shirt with Raglan Sleeves",
+      "rating": 3.7516892,
+      "ratingCount": 592,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098996-Roadster-Men-Tshirts-8521513406098941-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13774364,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13774364,
+          "label": "S",
+          "inventory": 34,
+          "available": true
+        },
+        {
+          "skuId": 13774365,
+          "label": "M",
+          "inventory": 295,
+          "available": true
+        },
+        {
+          "skuId": 13774366,
+          "label": "L",
+          "inventory": 61,
+          "available": true
+        },
+        {
+          "skuId": 13774367,
+          "label": "XL",
+          "inventory": 346,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098996-Roadster-Men-Tshirts-8521513406098941-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098996-Roadster-Men-Tshirts-8521513406098941-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098931-Roadster-Men-Tshirts-8521513406098941-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098958-Roadster-Men-Tshirts-8521513406098941-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098944-Roadster-Men-Tshirts-8521513406098941-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1996750/2017/12/16/11513406098978-Roadster-Men-Tshirts-8521513406098941-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "White",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "T-shirt with Raglan Sleeves",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1513209600000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Charcoal-Grey--Grey-Melange-Striped-Round-Neck-T-shirt/9973085/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 9973085,
+      "product": "Roadster Men Charcoal Grey & Grey Melange Striped Round Neck T-shirt",
+      "productName": "Roadster Men Charcoal Grey & Grey Melange Striped Round Neck T-shirt",
+      "rating": 4.285714,
+      "ratingCount": 7,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 360,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/db96cc4b-232f-45e9-8075-f4ce584010021565694392720-Roadster-Men-Tshirts-7131565694391401-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 34642775,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 34642775,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 34642776,
+          "label": "M",
+          "inventory": 14,
+          "available": true
+        },
+        {
+          "skuId": 34642777,
+          "label": "L",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 34642778,
+          "label": "XL",
+          "inventory": 11,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/db96cc4b-232f-45e9-8075-f4ce584010021565694392720-Roadster-Men-Tshirts-7131565694391401-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/db96cc4b-232f-45e9-8075-f4ce584010021565694392720-Roadster-Men-Tshirts-7131565694391401-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/85781818-d1fc-4615-8d54-cea38f6de4ef1565694392647-Roadster-Men-Tshirts-7131565694391401-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/bd83c4cf-1d3d-4568-954e-4692930dd8a71565694392683-Roadster-Men-Tshirts-7131565694391401-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/68a9033e-b3d7-47bb-b953-c89c29f778f51565694392663-Roadster-Men-Tshirts-7131565694391401-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/9973085/2019/8/13/95d26cc9-feb4-4924-afa8-d5ab3352d8e01565694392701-Roadster-Men-Tshirts-7131565694391401-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey Melange",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 45 % OFF)",
+      "additionalInfo": "Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 439,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1565827200000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Varsity-Graphic-T-shirt/8938969/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 8938969,
+      "product": "Roadster Men Navy Blue Varsity Graphic T-shirt",
+      "productName": "Roadster Men Navy Blue Varsity Graphic T-shirt",
+      "rating": 4.285714,
+      "ratingCount": 399,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 245,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/7baf6c58-071a-4b88-a33a-7f0388809e161554110862004-Roadster-Men-Tshirts-8061554110861042-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 33601887,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 33601884,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 33601885,
+          "label": "M",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 33601886,
+          "label": "L",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 33601887,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "S,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/7baf6c58-071a-4b88-a33a-7f0388809e161554110862004-Roadster-Men-Tshirts-8061554110861042-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/7baf6c58-071a-4b88-a33a-7f0388809e161554110862004-Roadster-Men-Tshirts-8061554110861042-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/4cf873ca-b047-403b-b5cb-bc2eac69ef951554110861908-Roadster-Men-Tshirts-8061554110861042-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/ff7613a1-e94b-4baa-bf88-da794c3d787d1554110861962-Roadster-Men-Tshirts-8061554110861042-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/dfbd38b4-4a0f-44be-bf2d-9ff63971d91b1554110861977-Roadster-Men-Tshirts-8061554110861042-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/8938969/2019/4/1/7aaf7372-f834-4a63-baab-f669e9b7b5af1554110861934-Roadster-Men-Tshirts-8061554110861042-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 35 % OFF)",
+      "additionalInfo": "Varsity Graphic T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 454,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 1 @MRP, get 1 Free*",
+      "catalogDate": "1553731200000",
+      "season": "Spring",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue--Charcoal-Grey-Striped-Round-Neck-T-shirt/10424628/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10424628,
+      "product": "Roadster Men Navy Blue & Charcoal Grey Striped Round Neck T-shirt",
+      "productName": "Roadster Men Navy Blue & Charcoal Grey Striped Round Neck T-shirt",
+      "rating": 4.1805553,
+      "ratingCount": 216,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 210,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/00c60b27-c5ce-41c1-a9eb-92c2cdb55bc61568175213652-Roadster-Men-Tshirts-5871568175212524-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35630746,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35630738,
+          "label": "S",
+          "inventory": 47,
+          "available": true
+        },
+        {
+          "skuId": 35630746,
+          "label": "M",
+          "inventory": 140,
+          "available": true
+        },
+        {
+          "skuId": 35630752,
+          "label": "L",
+          "inventory": 224,
+          "available": true
+        },
+        {
+          "skuId": 35630760,
+          "label": "XL",
+          "inventory": 198,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/00c60b27-c5ce-41c1-a9eb-92c2cdb55bc61568175213652-Roadster-Men-Tshirts-5871568175212524-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/00c60b27-c5ce-41c1-a9eb-92c2cdb55bc61568175213652-Roadster-Men-Tshirts-5871568175212524-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/448662f9-e227-44cf-b0dc-6408721b504d1568175213537-Roadster-Men-Tshirts-5871568175212524-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/5b1d153c-3bf8-4123-9349-0f5a885b21d51568175213596-Roadster-Men-Tshirts-5871568175212524-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/46bdb519-f1fc-4ef4-a9d9-2ec9f1da20101568175213625-Roadster-Men-Tshirts-5871568175212524-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10424628/2019/9/11/bd5ff844-19a1-49db-a9a1-ecd7c272cb2b1568175213567-Roadster-Men-Tshirts-5871568175212524-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Men Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 489,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1568246400000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Mustard-Yellow-Printed-Round-Neck-T-shirt/1225877/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1225877,
+      "product": "Roadster Mustard Yellow Printed Round Neck T-shirt",
+      "productName": "Roadster Mustard Yellow Printed Round Neck T-shirt",
+      "rating": 4.180783,
+      "ratingCount": 1405,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375826-Roadster-Men-Tshirts-8881462432375615-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 10011908,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 10011899,
+          "label": "S",
+          "inventory": 155,
+          "available": true
+        },
+        {
+          "skuId": 10011902,
+          "label": "M",
+          "inventory": 392,
+          "available": true
+        },
+        {
+          "skuId": 10011905,
+          "label": "L",
+          "inventory": 378,
+          "available": true
+        },
+        {
+          "skuId": 10011908,
+          "label": "XL",
+          "inventory": 221,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375826-Roadster-Men-Tshirts-8881462432375615-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375826-Roadster-Men-Tshirts-8881462432375615-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375763-Roadster-Men-Tshirts-8881462432375615-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375794-Roadster-Men-Tshirts-8881462432375615-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375779-Roadster-Men-Tshirts-8881462432375615-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1225877/2016/5/5/11462432375808-Roadster-Men-Tshirts-8881462432375615-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Mustard",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 399,
+      "price": 399,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": true,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1462406400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt/2169171/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2169171,
+      "product": "Roadster Men Grey Melange & Black Colourblocked T-shirt",
+      "productName": "Roadster Men Grey Melange & Black Colourblocked T-shirt",
+      "rating": 4.0463376,
+      "ratingCount": 669,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/cabd0aa5-6067-4ff1-b490-d72a80762fe51559130170714-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14423188,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14423188,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 14423189,
+          "label": "M",
+          "inventory": 12,
+          "available": true
+        },
+        {
+          "skuId": 14423190,
+          "label": "L",
+          "inventory": 23,
+          "available": true
+        },
+        {
+          "skuId": 14423191,
+          "label": "XL",
+          "inventory": 18,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/cabd0aa5-6067-4ff1-b490-d72a80762fe51559130170714-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/cabd0aa5-6067-4ff1-b490-d72a80762fe51559130170714-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/3b77122e-caca-4119-b65c-8d4c199a68121559130170642-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/036fcd7a-374f-43a3-acc4-c7bcaa823b441559130170679-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/7a364107-e1fd-46a7-bca6-0510947267d61559130170697-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2169171/2019/5/29/e591a517-3065-4d61-bfce-6e1e191f01011559130170660-Roadster-Men-Grey-Melange--Black-Colourblocked-T-shirt-62615-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey Melange",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Colourblocked T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1517443200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt/1072681/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1072681,
+      "product": "Roadster Men Charcoal Melange Printed Round Neck T-shirt",
+      "productName": "Roadster Men Charcoal Melange Printed Round Neck T-shirt",
+      "rating": 4.1677365,
+      "ratingCount": 1246,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 150,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/9de2d7dc-e239-4327-b7d0-096c80ac3a121579503443912-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 8385035,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 8385029,
+          "label": "S",
+          "inventory": 574,
+          "available": true
+        },
+        {
+          "skuId": 8385032,
+          "label": "M",
+          "inventory": 386,
+          "available": true
+        },
+        {
+          "skuId": 8385035,
+          "label": "L",
+          "inventory": 6,
+          "available": true
+        },
+        {
+          "skuId": 8385038,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/9de2d7dc-e239-4327-b7d0-096c80ac3a121579503443912-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/9de2d7dc-e239-4327-b7d0-096c80ac3a121579503443912-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/945b0a5f-35cc-46b4-8276-fc2bd97b72541579503443742-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/d795dfaa-7a2b-4a88-a956-d4fb553bb2bb1579503443832-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/25b97f62-f804-4047-abdd-b3dc6a32e4411579503443869-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1072681/2020/1/20/3fa6128e-dbb6-4b85-a54f-57231fc9d56d1579503443792-Roadster-Men-Charcoal-Melange-Printed-Round-Neck-T-shirt-364-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Charcoal",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(30% OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 349,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1455148800000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Time-Travlr-Men-Teal-Blue-Printed-Round-Neck-T-shirt/1824409/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1824409,
+      "product": "Roadster Time Travlr Men Teal Blue Printed Round Neck T-shirt",
+      "productName": "Roadster Time Travlr Men Teal Blue Printed Round Neck T-shirt",
+      "rating": 3.9961905,
+      "ratingCount": 525,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 140,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/b36d1297-8e79-4a80-83d5-ea0a5c7cb2111569849525698-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13138788,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13138786,
+          "label": "S",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 13138787,
+          "label": "M",
+          "inventory": 2,
+          "available": true
+        },
+        {
+          "skuId": 13138788,
+          "label": "L",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 13138789,
+          "label": "XL",
+          "inventory": 69,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/b36d1297-8e79-4a80-83d5-ea0a5c7cb2111569849525698-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/b36d1297-8e79-4a80-83d5-ea0a5c7cb2111569849525698-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/51f92ddb-1f3b-4a98-bda2-2dcca7ace0621569849525572-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/744a9f72-f580-465f-ba4a-e1d64a4a53281569849525627-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/06f0a5a4-d51c-49a5-a2d7-3e6cdda56f651569849525599-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1824409/2019/9/30/ccdd641d-6c54-41a4-849f-902b066f5ba51569849525669-Roadster-Men-Teal-Blue-Printed-Round-Neck-T-shirt-4071569849-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Teal",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 20 % OFF)",
+      "additionalInfo": "Time Travlr Printed T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 559,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1495065600000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Solid-Round-Neck-T-shirt/9901805/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 9901805,
+      "product": "Roadster Men Navy Solid Round Neck T-shirt",
+      "productName": "Roadster Men Navy Solid Round Neck T-shirt",
+      "rating": 4.168942,
+      "ratingCount": 586,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/8139e933-b2a1-4d35-8a9f-d01cf3e1ace81563256634726-Roadster-Men-Tshirts-5541563256633223-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 34566110,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 34566110,
+          "label": "S",
+          "inventory": 75,
+          "available": true
+        },
+        {
+          "skuId": 34566111,
+          "label": "M",
+          "inventory": 252,
+          "available": true
+        },
+        {
+          "skuId": 34566112,
+          "label": "L",
+          "inventory": 166,
+          "available": true
+        },
+        {
+          "skuId": 34566113,
+          "label": "XL",
+          "inventory": 121,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/8139e933-b2a1-4d35-8a9f-d01cf3e1ace81563256634726-Roadster-Men-Tshirts-5541563256633223-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/8139e933-b2a1-4d35-8a9f-d01cf3e1ace81563256634726-Roadster-Men-Tshirts-5541563256633223-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/c6f7d376-67bf-46b6-bec0-d4df753315c81563256634650-Roadster-Men-Tshirts-5541563256633223-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/07bc5ee3-0c74-4506-910d-ba25dd29153d1563256634685-Roadster-Men-Tshirts-5541563256633223-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/2187d0e0-8362-42d3-b1ae-fb43d46929711563256634706-Roadster-Men-Tshirts-5541563256633223-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/9901805/2019/7/16/da81e263-57d5-4c99-a962-fe2b0c1011c81563256634664-Roadster-Men-Tshirts-5541563256633223-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 499,
+      "price": 499,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1562803200000",
+      "season": "Winter",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt/2215172/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2215172,
+      "product": "Roadster Men Navy Blue Striped Round Neck T-shirt",
+      "productName": "Roadster Men Navy Blue Striped Round Neck T-shirt",
+      "rating": 4.0884085,
+      "ratingCount": 509,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533484-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14595303,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14595298,
+          "label": "S",
+          "inventory": 3,
+          "available": true
+        },
+        {
+          "skuId": 14595299,
+          "label": "M",
+          "inventory": 41,
+          "available": true
+        },
+        {
+          "skuId": 14595301,
+          "label": "L",
+          "inventory": 2,
+          "available": true
+        },
+        {
+          "skuId": 14595303,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533484-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533484-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533386-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533437-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533460-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2215172/2018/1/29/11517218533410-Roadster-Men-Navy-Blue-Striped-Round-Neck-T-shirt-5181517218533300-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 599,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1516838400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt/10424654/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 10424654,
+      "product": "Roadster Men Navy Blue Solid Polo Collar T-shirt",
+      "productName": "Roadster Men Navy Blue Solid Polo Collar T-shirt",
+      "rating": 4.15444,
+      "ratingCount": 259,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/036f7f19-dbf0-4d05-a7b1-e0b9c2b919d21575540782619-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 35630862,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 35630860,
+          "label": "S",
+          "inventory": 39,
+          "available": true
+        },
+        {
+          "skuId": 35630862,
+          "label": "M",
+          "inventory": 41,
+          "available": true
+        },
+        {
+          "skuId": 35630864,
+          "label": "L",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 35630866,
+          "label": "XL",
+          "inventory": 0,
+          "available": false
+        }
+      ],
+      "sizes": "S,M,L",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/036f7f19-dbf0-4d05-a7b1-e0b9c2b919d21575540782619-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/036f7f19-dbf0-4d05-a7b1-e0b9c2b919d21575540782619-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/b07b3096-fe45-4811-bbd7-8ab55cbb90801575540782425-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/89cfcc72-81c3-4628-95cd-007ec65eb00c1575540782515-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/32fc30b8-2d34-42b3-80bd-f0fa14fcd2981575540782562-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/10424654/2019/12/5/6505210b-4821-4c0f-9770-d14ec67d62cb1575540782470-Roadster-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-38215755407-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 20 % OFF)",
+      "additionalInfo": "Men Solid Polo Collar T-shirt",
+      "category": "Tshirts",
+      "mrp": 899,
+      "price": 719,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1576108800000",
+      "season": "Fall",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Solid-Drop-Shoulder-Longline-T-shirt/1824339/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1824339,
+      "product": "Roadster Men Black Solid Drop-Shoulder Longline T-shirt",
+      "productName": "Roadster Men Black Solid Drop-Shoulder Longline T-shirt",
+      "rating": 3.5997427,
+      "ratingCount": 777,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1824339/2017/8/28/11503925637305-Roadster-Men-Black-Solid-T-shirt-711503925637202-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 13138506,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 13138505,
+          "label": "S",
+          "inventory": 183,
+          "available": true
+        },
+        {
+          "skuId": 13138506,
+          "label": "M",
+          "inventory": 537,
+          "available": true
+        },
+        {
+          "skuId": 13138507,
+          "label": "L",
+          "inventory": 414,
+          "available": true
+        },
+        {
+          "skuId": 13138508,
+          "label": "XL",
+          "inventory": 310,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/28/11503925637305-Roadster-Men-Black-Solid-T-shirt-711503925637202-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/28/11503925637305-Roadster-Men-Black-Solid-T-shirt-711503925637202-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/3/11501761617138-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8121501761617034-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/3/11501761617195-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8121501761617034-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/3/11501761617220-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8121501761617034-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1824339/2017/8/3/11501761617167-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8121501761617034-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Drop Shoulder Longline T-shirt",
+      "category": "Tshirts",
+      "mrp": 699,
+      "price": 699,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1501718400000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon-Printed-Round-Neck-T-shirt/8938273/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 8938273,
+      "product": "Roadster Men Maroon Printed Round Neck T-shirt",
+      "productName": "Roadster Men Maroon Printed Round Neck T-shirt",
+      "rating": 4.185864,
+      "ratingCount": 382,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 120,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/515dea1d-8094-448c-a2b6-7099b68aebb01553583605934-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 33600492,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 33600492,
+          "label": "S",
+          "inventory": 2,
+          "available": true
+        },
+        {
+          "skuId": 33600493,
+          "label": "M",
+          "inventory": 0,
+          "available": false
+        },
+        {
+          "skuId": 33600494,
+          "label": "L",
+          "inventory": 4,
+          "available": true
+        },
+        {
+          "skuId": 33600495,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "S,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/515dea1d-8094-448c-a2b6-7099b68aebb01553583605934-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/515dea1d-8094-448c-a2b6-7099b68aebb01553583605934-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/f962df07-ff1e-434e-822b-8cbeb86d0f1a1553583605865-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/a515a799-c0f2-4c9b-8539-15c163e5cf301553583605900-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/4bbfa6d4-913d-4486-9ea4-9e36e85a3e291553583605881-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/8938273/2019/3/26/68e13944-5e14-4136-883d-615b18cbe2ca1553583605917-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-9271553583604-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 20 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 479,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1553126400000",
+      "season": "Spring",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Navy-Solid-Round-Neck-T-shirt/2196728/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2196728,
+      "product": "Roadster Men Navy Solid Round Neck T-shirt",
+      "productName": "Roadster Men Navy Solid Round Neck T-shirt",
+      "rating": 3.9683974,
+      "ratingCount": 443,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 180,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610522-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14523387,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14523387,
+          "label": "S",
+          "inventory": 107,
+          "available": true
+        },
+        {
+          "skuId": 14523388,
+          "label": "M",
+          "inventory": 100,
+          "available": true
+        },
+        {
+          "skuId": 14523389,
+          "label": "L",
+          "inventory": 89,
+          "available": true
+        },
+        {
+          "skuId": 14523390,
+          "label": "XL",
+          "inventory": 1,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610522-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610522-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610410-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610465-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610486-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2196728/2018/2/13/11518522610437-Roadster-Men-Navy-Blue-Solid-Round-Neck-T-shirt-8451518522610271-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Navy Blue",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "(30% OFF)",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 419,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1",
+      "tdBxGyText": "",
+      "catalogDate": "1518048000000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon-Striped-Round-Neck-T-shirt/2310360/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 2310360,
+      "product": "Roadster Men Maroon Striped Round Neck T-shirt",
+      "productName": "Roadster Men Maroon Striped Round Neck T-shirt",
+      "rating": 4.0819936,
+      "ratingCount": 622,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/a5ac416b-faf7-4b92-b524-9bd364245d701526882297598-Roadster-Men-Tshirts-2001526882296161-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 14960290,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 14960289,
+          "label": "S",
+          "inventory": 192,
+          "available": true
+        },
+        {
+          "skuId": 14960290,
+          "label": "M",
+          "inventory": 51,
+          "available": true
+        },
+        {
+          "skuId": 14960291,
+          "label": "L",
+          "inventory": 7,
+          "available": true
+        },
+        {
+          "skuId": 14960292,
+          "label": "XL",
+          "inventory": 22,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/a5ac416b-faf7-4b92-b524-9bd364245d701526882297598-Roadster-Men-Tshirts-2001526882296161-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/a5ac416b-faf7-4b92-b524-9bd364245d701526882297598-Roadster-Men-Tshirts-2001526882296161-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/f5ad7a86-80e7-4f69-acd8-1ea1ed6ffe4d1526882297512-Roadster-Men-Tshirts-2001526882296161-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/e47e227f-cda1-4d4d-a2a3-f9605f6d872c1526882297553-Roadster-Men-Tshirts-2001526882296161-3.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/ab0774de-d512-4780-b3c7-43411f77a27a1526882297530-Roadster-Men-Tshirts-2001526882296161-4.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/2310360/2018/5/21/0eebf058-f91c-4343-9ca3-a13d0c6c41731526882297573-Roadster-Men-Tshirts-2001526882296161-2.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Striped Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 799,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "",
+      "tdBxGyText": "",
+      "catalogDate": "1526515200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Maroon-Round-Neck-T-shirt-with-Striped-Sleeves/1708419/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 1708419,
+      "product": "Roadster Men Maroon Round Neck T-shirt with Striped Sleeves",
+      "productName": "Roadster Men Maroon Round Neck T-shirt with Striped Sleeves",
+      "rating": 4.1549063,
+      "ratingCount": 1814,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628656-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 12714238,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 12714238,
+          "label": "S",
+          "inventory": 44,
+          "available": true
+        },
+        {
+          "skuId": 12714239,
+          "label": "M",
+          "inventory": 74,
+          "available": true
+        },
+        {
+          "skuId": 12714240,
+          "label": "L",
+          "inventory": 48,
+          "available": true
+        },
+        {
+          "skuId": 12714241,
+          "label": "XL",
+          "inventory": 36,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628656-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628656-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628572-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628609-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628636-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/1708419/2017/2/21/11487662628588-Roadster-Men-Maroon-Solid-Round-Neck-T-Shirt-9681487662628374-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Maroon",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "T-shirt with Striped Sleeves",
+      "category": "Tshirts",
+      "mrp": 599,
+      "price": 599,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": true,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1487203200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt/3314157/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 3314157,
+      "product": "Roadster Men Grey Melange Solid Round Neck T-shirt",
+      "productName": "Roadster Men Grey Melange Solid Round Neck T-shirt",
+      "rating": 3.7142856,
+      "ratingCount": 7,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 0,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081440-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 18848216,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 18848216,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 18848220,
+          "label": "M",
+          "inventory": 140,
+          "available": true
+        },
+        {
+          "skuId": 18848230,
+          "label": "L",
+          "inventory": 130,
+          "available": true
+        },
+        {
+          "skuId": 18848238,
+          "label": "XL",
+          "inventory": 52,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081440-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081440-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081364-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081398-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081413-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/3314157/2018/4/18/11524041081378-Roadster-Men-Grey-Melange-Solid-Round-Neck-T-shirt-3461524041081257-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Grey Melange",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "",
+      "additionalInfo": "Solid Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 299,
+      "price": 299,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1523491200000",
+      "season": "Summer",
+      "year": "2019",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": [
+        {
+          "attribute": "SA_XT_Trending",
+          "value": "TRENDING"
+        }
+      ]
+    },
+    {
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Printed-Round-Neck-T-shirt/11545694/buy",
+      "loyaltyPointsEnabled": false,
+      "adId": "",
+      "isPLA": false,
+      "productId": 11545694,
+      "product": "Roadster Men Black Printed Round Neck T-shirt",
+      "productName": "Roadster Men Black Printed Round Neck T-shirt",
+      "rating": 4.3170733,
+      "ratingCount": 41,
+      "isFastFashion": true,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 240,
+      "brand": "Roadster",
+      "searchImage": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/94a76553-b4a9-47bd-9db5-541ec32430721591675500241-Roadster-Men-Tshirts-5781591675498977-1.jpg",
+      "effectiveDiscountPercentageAfterTax": 0,
+      "effectiveDiscountAmountAfterTax": 0,
+      "buyButtonWinnerSkuId": 40164390,
+      "buyButtonWinnerSellerPartnerId": 4118,
+      "relatedStylesCount": 0,
+      "relatedStylesType": "",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 40164390,
+          "label": "S",
+          "inventory": 1,
+          "available": true
+        },
+        {
+          "skuId": 40164392,
+          "label": "M",
+          "inventory": 12,
+          "available": true
+        },
+        {
+          "skuId": 40164394,
+          "label": "L",
+          "inventory": 36,
+          "available": true
+        },
+        {
+          "skuId": 40164396,
+          "label": "XL",
+          "inventory": 2,
+          "available": true
+        }
+      ],
+      "sizes": "S,M,L,XL",
+      "images": [
+        {
+          "view": "default",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/94a76553-b4a9-47bd-9db5-541ec32430721591675500241-Roadster-Men-Tshirts-5781591675498977-1.jpg"
+        },
+        {
+          "view": "search",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/94a76553-b4a9-47bd-9db5-541ec32430721591675500241-Roadster-Men-Tshirts-5781591675498977-1.jpg"
+        },
+        {
+          "view": "left",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/87a08b62-1717-4838-8891-996ad8b7dce91591675500006-Roadster-Men-Tshirts-5781591675498977-5.jpg"
+        },
+        {
+          "view": "back",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/540dd7fd-49f3-4df6-9f61-683184a768a41591675500123-Roadster-Men-Tshirts-5781591675498977-3.jpg"
+        },
+        {
+          "view": "front",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/476dcbe0-4039-4ea5-afc0-98d5b4aa260b1591675500182-Roadster-Men-Tshirts-5781591675498977-2.jpg"
+        },
+        {
+          "view": "right",
+          "src": "http://assets.myntassets.com/assets/images/11545694/2020/6/9/cca8b580-75ad-4333-ae12-2c212cbdd7281591675500065-Roadster-Men-Tshirts-5781591675498977-4.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "Flat_Search_Percent",
+      "discountDisplayLabel": "( 30 % OFF)",
+      "additionalInfo": "Printed Round Neck T-shirt",
+      "category": "Tshirts",
+      "mrp": 799,
+      "price": 559,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": false,
+      "productimagetag": "",
+      "listViews": 0,
+      "discountType": "1024",
+      "tdBxGyText": "Or Buy 2 @MRP, get 1 Free*",
+      "catalogDate": "1591833600000",
+      "season": "Spring",
+      "year": "2020",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "",
+      "personalizedCouponValue": 0,
+      "productMeta": "",
+      "systemAttributes": []
+    }
+  ]
+}

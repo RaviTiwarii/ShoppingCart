@@ -1,25 +1,86 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import { Redirect, Route, Switch } from "react-router-dom";
+import NavBar from "./components/NavBar";
+import Products from "./components/Products";
+import ShoppingCart from "./components/ShoppingCart";
+import NotFound from "./components/NotFound";
+import productService from "./services/productService";
+import cartService from "./services/cartService";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  state = {
+    products: [],
+    cartItems: cartService.getCartItems(),
+    cartSize: cartService.cartSize(),
+  };
+
+  async componentDidMount() {
+    const { data } = await productService.getProducts();
+    const cartSize = cartService.cartSize();
+    this.setState({ products: data.products, cartSize });
+  }
+
+  handleAddToCart = (product) => {
+    cartService.addToCart(product);
+    this.setState({
+      cartItems: cartService.getCartItems(),
+      cartSize: cartService.cartSize(),
+    });
+  };
+
+  handleCartItemDelete = (item) => {
+    cartService.deleteFromCart(item);
+    this.populateCart();
+  };
+
+  handleChangeQuantity = (item, quantity) => {
+    cartService.updateQuantity(item, quantity);
+    this.populateCart();
+  };
+
+  populateCart() {
+    const cartItems = cartService.getCartItems();
+    this.setState({ cartItems, cartSize: cartItems.length });
+  }
+
+  render() {
+    const { products, cartItems, cartSize } = this.state;
+
+    return (
+      <React.Fragment>
+        <NavBar cartSize={cartSize} />
+        <main className="container">
+          <Switch>
+            <Route
+              path="/products"
+              render={(props) => (
+                <Products
+                  {...props}
+                  products={products}
+                  onAddToCart={this.handleAddToCart}
+                />
+              )}
+            />
+            <Route
+              path="/cart"
+              render={(props) => (
+                <ShoppingCart
+                  {...props}
+                  cartItems={cartItems}
+                  onCartItemDelete={this.handleCartItemDelete}
+                  onChangeQuantity={this.handleChangeQuantity}
+                />
+              )}
+            />
+            <Route path="/not-found" component={NotFound} />
+            <Redirect from="/" exact to="/products" />
+            <Redirect to="/not-found" />
+          </Switch>
+        </main>
+      </React.Fragment>
+    );
+  }
 }
 
 export default App;

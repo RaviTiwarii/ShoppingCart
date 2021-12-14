@@ -1,0 +1,23 @@
+Implement an infinite scrollable that loads products from the endpoint 
+
+Endpoint: https://run.mocky.io/v3/05e9651d-528e-4d7c-a60b-bae8f09684c6
+
+Please keep the following in mind while designing:
+
+1. Use the above api to get the products, price, discount and other details.
+
+2. Render only what all is visible ( as per the view port )
+
+3. Keep header as sticky ( while scrolling, header should not move )
+
+4. Added image only for your reference, use your imagination to beautify this or you can completely redesign this.
+
+5. Click on 'Add to cart' should add an item in the cart. Take the user to the 'Cart page' once the Cart icon is clicked (next route/page), add a back button in the Cart page.
+
+6. Keep the Index and Cart state maintained. Use Redux for store.
+
+7. Writing custom CSS will be an additional plus. ( refrain from using any third party styling like: bootstrap, material ui etc. )
+
+8. Build responsive UI that should load perfectly fine in Mobile, Desktop and Tablet
+
+9. Write modular, scalable and quality code
