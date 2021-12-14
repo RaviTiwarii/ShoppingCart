@@ -25,7 +25,6 @@ class ShoppingCart extends Component {
                   onClick={() =>
                     this.props.onChangeQuantity(item, quantity - 1)
                   }
-                  disabled={quantity === 1}
                   className="btn btn-secondary btn-sm mx-2"
                 >
                   <strong>-</strong>
@@ -40,8 +39,7 @@ class ShoppingCart extends Component {
                   <strong>+</strong>
                 </button>
                 <br />
-                <strong>Total Price: </strong>
-                ${totalPrice}
+                <strong>Total Price: </strong>${totalPrice}
               </p>
               <button
                 onClick={() => this.props.onCartItemDelete(item)}

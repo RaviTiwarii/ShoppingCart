@@ -16,7 +16,18 @@ export function addToCart(item) {
 }
 
 export function cartSize() {
-  return cart.size;
+  const cartIterator = cart.values();
+  console.log("CartIterator", cartIterator);
+  let cartSize = 0;
+  let i = 0;
+  while (i < cart.size) {
+    const cartItem = cartIterator.next();
+    console.log("CartItem", cartItem);
+    cartSize += cartItem.value.quantity;
+    i++;
+  }
+  console.log("Cart Size", cartSize);
+  return cartSize;
 }
 
 export function deleteFromCart(cartItem) {

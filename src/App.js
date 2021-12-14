@@ -35,13 +35,17 @@ class App extends Component {
   };
 
   handleChangeQuantity = (item, quantity) => {
-    cartService.updateQuantity(item, quantity);
+    if (quantity === 0) {
+      this.handleCartItemDelete(item);
+    } else {
+      cartService.updateQuantity(item, quantity);
+    }
     this.populateCart();
   };
 
   populateCart() {
     const cartItems = cartService.getCartItems();
-    this.setState({ cartItems, cartSize: cartItems.length });
+    this.setState({ cartItems, cartSize: cartService.cartSize() });
   }
 
   render() {
