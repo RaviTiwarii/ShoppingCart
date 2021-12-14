@@ -47,6 +47,14 @@ class ShoppingCart extends Component {
               >
                 Delete
               </button>
+              <br />
+              <br />
+              <button
+                onClick={() => this.props.onAddToWishList(cartItem)}
+                className="btn btn-primary"
+              >
+                Add To Wish List
+              </button>
             </div>
           </div>
         </div>

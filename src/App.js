@@ -4,8 +4,10 @@ import NavBar from "./components/NavBar";
 import Products from "./components/Products";
 import ShoppingCart from "./components/ShoppingCart";
 import NotFound from "./components/NotFound";
+import WishList from "./components/WishList";
 import productService from "./services/productService";
 import cartService from "./services/cartService";
+import wishListService from "./services/wishListService";
 import "./App.css";
 
 class App extends Component {
@@ -21,6 +23,10 @@ class App extends Component {
     this.setState({ products: data.products, cartSize });
   }
 
+  handleMoveToCart = (wishListItem) => {
+    this.handleAddToCart(wishListItem.item);
+  };
+
   handleAddToCart = (product) => {
     cartService.addToCart(product);
     this.setState({
@@ -32,6 +38,11 @@ class App extends Component {
   handleCartItemDelete = (item) => {
     cartService.deleteFromCart(item);
     this.populateCart();
+  };
+
+  handleAddToWishList = (cartItem) => {
+    wishListService.addToWishList(cartItem);
+    this.handleCartItemDelete(cartItem.item);
   };
 
   handleChangeQuantity = (item, quantity) => {
@@ -72,9 +83,16 @@ class App extends Component {
                 <ShoppingCart
                   {...props}
                   cartItems={cartItems}
-                  onCartItemDelete={this.handleCartItemDelete}
                   onChangeQuantity={this.handleChangeQuantity}
+                  onCartItemDelete={this.handleCartItemDelete}
+                  onAddToWishList={this.handleAddToWishList}
                 />
+              )}
+            />
+            <Route
+              path="/wishlist"
+              render={(props) => (
+                <WishList {...props} onMoveToCart={this.handleMoveToCart} />
               )}
             />
             <Route path="/not-found" component={NotFound} />
